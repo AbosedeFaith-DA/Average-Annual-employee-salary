@@ -1,4 +1,4 @@
-# Average-Salary-Comparison-of-Female-vs.-Male-Employees
+# Average  Annual employee salary
 
 # Project Objective
 This project aims to conduct a comprehensive analysis of gender-based salary trends across all departments within the company, with a focus on data up to the year 2002. Using SQL for data extraction and Tableau for visualization, it enables a detailed comparison of average salaries between male and female employees. This analysis seeks to uncover historical compensation patterns, providing insights into gender equity across departments and supporting informed decision-making on equitable pay practices.
