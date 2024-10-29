@@ -7,7 +7,8 @@ This project aims to conduct a comprehensive analysis of gender-based salary tre
 # Question
 Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department.
 
-- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/Average-Annual-employee-salary/blob/main/Screenshot%202024-10-29%20125443.png">View Dashboard</a>
+- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/company-salary-gender-trends/blob/main/Screenshot%202024-10-29%20144311.png">View Dashboard</a>
+
 # Process
 - Data Extraction with SQL
 - Data Visualization in Tableau
