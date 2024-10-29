@@ -6,14 +6,16 @@ This project aims to conduct a comprehensive analysis of gender-based salary tre
 - <a href='https://github.com/AbosedeFaith-DA/Average-Salary-Comparison-of-Female-vs.-Male-Employees/blob/main/Task%203.csv'>Dataset</a>
 # Question
 Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department.
-- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/Average-Salary-Comparison-of-Female-vs.-Male-Employees/blob/main/Screenshot%202024-10-27%20130057.png">View Dashboard</a>
+
+- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/Average-Annual-employee-salary/blob/main/Screenshot%202024-10-29%20125443.png">View Dashboard</a>
 # Process
 - Data Extraction with SQL
 - Data Visualization in Tableau
 - Final Touches
  # Dashboard
+ <img width="675" alt="image" src="https://github.com/user-attachments/assets/a053f08a-6d4a-4fc2-8d76-931fe768db3b">
 
- ![Screenshot 2024-10-27 130057](https://github.com/user-attachments/assets/1f2c0da0-c396-4293-bd88-4a2355801933)
+
  # Project Insights
 The analysis provides valuable insights into salary trends across departments from 1990 to 2002:
 Salaries have consistently increased across all departments, indicating a steady upward trend in employee compensation over the years.
